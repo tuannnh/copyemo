@@ -1,0 +1,33 @@
+{
+  "props": ["leftHead", "rightHead"],
+  "list": [
+    {
+      "leftHead": "(",
+      "rightHead": ")"
+    },
+    {
+      "leftHead": "{",
+      "rightHead": "}"
+    },
+    {
+      "leftHead": "[",
+      "rightHead": "]"
+    },
+    {
+      "leftHead": "ʕ",
+      "rightHead": "ʔ"
+    },
+    {
+      "leftHead": "|",
+      "rightHead": "|"
+    },
+    {
+      "leftHead": "ᶘ",
+      "rightHead": "ᶅ"
+    },
+    {
+      "leftHead": "༼",
+      "rightHead": "༽"
+    }
+  ]
+}
